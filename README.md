@@ -1,6 +1,8 @@
 # STL Viewer
 
-A deliberately old-school/native Windows STL viewer.
+A deliberately old-school/native Windows STL viewer written in C++ using Win32 and OpenGL.
+
+![STL Viewer displaying the Stanford Bunny](assets/screenshot.png)
 
 ## UI direction
 - Native Win32 window/menu
