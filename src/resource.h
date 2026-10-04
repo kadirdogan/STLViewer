@@ -1,0 +1,21 @@
+#pragma once
+#define IDI_APP             101
+#define IDM_OPEN            40001
+#define IDM_EXIT            40002
+#define IDM_FIT             40003
+#define IDM_FRONT           40004
+#define IDM_BACK            40005
+#define IDM_LEFT            40006
+#define IDM_RIGHT           40007
+#define IDM_TOP             40008
+#define IDM_BOTTOM          40009
+#define IDM_SHADED          40010
+#define IDM_WIREFRAME       40011
+#define IDM_GRID            40012
+#define IDM_AXES            40013
+#define IDM_ABOUT           40014
+#define IDC_TOOLBAR         50001
+#define IDC_TREE            50002
+#define IDC_PROPS           50003
+#define IDC_VIEW            50004
+#define IDC_STATUS          50005

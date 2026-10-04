@@ -1,0 +1,21 @@
+#include "resource.h"
+#include <windows.h>
+
+
+IDI_APP ICON DISCARDABLE "app.ico"
+
+STRINGTABLE
+BEGIN
+    IDM_OPEN "Open"
+    IDM_FIT "Fit"
+    IDM_FRONT "Front"
+    IDM_BACK "Back"
+    IDM_LEFT "Left"
+    IDM_RIGHT "Right"
+    IDM_TOP "Top"
+    IDM_BOTTOM "Bottom"
+    IDM_SHADED "Shaded"
+    IDM_WIREFRAME "Wireframe"
+    IDM_GRID "Grid"
+    IDM_AXES "Axes"
+END
